@@ -1,5 +1,5 @@
 module CDNS_SD [system] {
   header "dns_sd_bridging.h"
-  link "dns_sd"
+  link "dns_services"
   export *
 }
